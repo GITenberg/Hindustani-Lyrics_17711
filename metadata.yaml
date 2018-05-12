@@ -18,6 +18,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17711#Hindustani-Lyrics
 gutenberg_bookshelf: India
 gutenberg_issued: '2006-02-07'
 gutenberg_type: Text
